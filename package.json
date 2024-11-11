@@ -1,0 +1,17 @@
+{
+  "name": "pix_play",
+  "version": "1.0.0",
+  "description": "a youtube clone by github.com/to4to",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "clone",
+    "video",
+    "stream"
+  ],
+  "author": "github.com/to4to",
+  "license": "ISC"
+}
