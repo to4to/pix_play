@@ -13,5 +13,10 @@
     "stream"
   ],
   "author": "github.com/to4to",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1"
+  }
 }
